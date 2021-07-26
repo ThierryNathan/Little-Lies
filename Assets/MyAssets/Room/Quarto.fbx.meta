@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 049f7c69561dadc459f26b9c64315e23
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A macaquinha
+    second: {fileID: 2100000, guid: 57e55967a63711a4ebac8486517d1566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Almofadinha1
+    second: {fileID: 2100000, guid: f56b01e6eb2ea774a8401d6173889556, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Almofadinha2
+    second: {fileID: 2100000, guid: 8a085566fb0831c44b99176135249e7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Almofadinha3
+    second: {fileID: 2100000, guid: e3ba7addf9397ae4e81ebd47236c249c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AmigaUrsa
+    second: {fileID: 2100000, guid: 1ff10c3bf5d42ae488413a102f434514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bau
+    second: {fileID: 2100000, guid: bcf75a69d2136f14d800253dcc3a4add, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CamisaSuperman
+    second: {fileID: 2100000, guid: 39520013026ddd449afdf1dddeaac700, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChicoCurupira
+    second: {fileID: 2100000, guid: bc1c66395bc72614bb8a2019cc188264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChicoMula
+    second: {fileID: 2100000, guid: 410252d8514b3c041a9fb2a9f4189c28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChicoSaci
+    second: {fileID: 2100000, guid: c2d66390b1cff9546a3c3ceb5bf0b24b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock
+    second: {fileID: 2100000, guid: f1578c47df945ea4781cae79dfa0164e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: cac7e04fbb5096f42aa6a79c48480c66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fechadinho do bagulho
+    second: {fileID: 2100000, guid: 1e801a14a3013274bab427075d8ef700, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flinstons
+    second: {fileID: 2100000, guid: 417dec7739c902c4e90236c9f0b1f31f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GavetasCriadoMudo1
+    second: {fileID: 2100000, guid: 9c9e3d2a91fb21d4895328fdd4d036b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GavetasCriadoMudo2
+    second: {fileID: 2100000, guid: f654309006cd4d6488111ff89a6397a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GuardaroupaBranco
+    second: {fileID: 2100000, guid: 5f3c9027b5951b14ba8140fce7c2e754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IndiaTaina
+    second: {fileID: 2100000, guid: e0161136ee9ec7949bcc8600c20adc8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JourneyDreams
+    second: {fileID: 2100000, guid: 92794af975c85c649b2ddbc74ffa03af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira simples
+    second: {fileID: 2100000, guid: 0cd5354a4a1d9f344bd09b3627676e05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MadeiraGuardaRoupa
+    second: {fileID: 2100000, guid: b82f23c47ba4fa04e99fa2344a6c9652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MadeiraRosa
+    second: {fileID: 2100000, guid: 72245a1aa583a7347adb552e46e8754e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: c3db6a72ac7223746b3a04ec16cf3283, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 3dd0b96545ce0944080be864fe249281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maya
+    second: {fileID: 2100000, guid: 8660e6f6fccdc394fbdb5f7d651a5264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesinha
+    second: {fileID: 2100000, guid: 948522c920bb47f4e81d42bb05eb83dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paginas livro
+    second: {fileID: 2100000, guid: 47548036f6fc09f42b3e873de3b0d303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede
+    second: {fileID: 2100000, guid: 37a5ebad252fc6846a5faca9fa067a69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PequenoPrincipe
+    second: {fileID: 2100000, guid: dc94ceb0152839f4390803343e4cf599, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso
+    second: {fileID: 2100000, guid: 7158252a413739e439ce4cbcfb27cd29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Preto
+    second: {fileID: 2100000, guid: c0e13ac756f136847ad42247be46d0cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puxador
+    second: {fileID: 2100000, guid: c88bf2400c3a27c46bdf717c4307a397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SintoSinto
+    second: {fileID: 2100000, guid: f1583d8561793b7468dcc8b8b130ddc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stargazing
+    second: {fileID: 2100000, guid: a9c7c2dc0dc991a49b1f74ba16d9288c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teto
+    second: {fileID: 2100000, guid: 42b5b3ebd10ea9543a8f1cdce1225ef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Travesseiro 1
+    second: {fileID: 2100000, guid: ddd03c6adbfca1949b022b5d3a24c4a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bear.001
+    second: {fileID: 2100000, guid: e664056e5fa104c4fa08f038df602b0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: borboleta
+    second: {fileID: 2100000, guid: d367bd4df0e8e9a40a2e6b021821c42c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crate_texture
+    second: {fileID: 2100000, guid: 5eaadee626fbc7b4c8d906084442717c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: 7f99b5d2caa30f045a9ba1ee24868ca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3.001
+    second: {fileID: 2100000, guid: a56e86d0bb02bce4f99b2d44b362752a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lebre e tartaruga historia
+    second: {fileID: 2100000, guid: 97da14f174ba3d94abb26b69bff1888e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material.001
+    second: {fileID: 2100000, guid: ffb14bca8c6784047af68580bad4cfd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "m\xE3e eu pai"
+    second: {fileID: 2100000, guid: 3fff6cfbf7333e34a95b56edc098b885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: naruto
+    second: {fileID: 2100000, guid: 5c4974823ef35f3499cedb6a088ffb6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pai pirata peixe eu
+    second: {fileID: 2100000, guid: 1bb0e7b8a31db3244a1dab91163a9804, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pirata
+    second: {fileID: 2100000, guid: dea33eed73cbaa14d872966afe42b117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tony
+    second: {fileID: 2100000, guid: 2aefa9d495da4fa4ba96e0b7fe4745f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_228153184
+    second: {fileID: 2100000, guid: 2276d9efd02196545931efce1717cb73, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
