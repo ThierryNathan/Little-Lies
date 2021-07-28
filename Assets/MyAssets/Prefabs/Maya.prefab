@@ -2345,13 +2345,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2953868447032437004}
-  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-  m_LocalPosition: {x: -0.0017923447, y: 0.9291421, z: 0.018056136}
+  m_LocalRotation: {x: -0.7070645, y: -0.0018071594, z: 0.0007386405, w: 0.7071464}
+  m_LocalPosition: {x: -0.0018672235, y: 0.92914224, z: 0.018058712}
   m_LocalScale: {x: 7.862751, y: 7.862751, z: 7.862751}
   m_Children: []
   m_Father: {fileID: 7965872017434881082}
   m_RootOrder: 16
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -89.79401, y: -88.201004, z: 88.114006}
 --- !u!137 &353110035525616137
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 0
@@ -3110,7 +3110,7 @@ CharacterJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -0.30269954, y: 0.24090852, z: -0.15303646}
+  m_ConnectedAnchor: {x: -0.08065181, y: 0.19122674, z: -0.080821864}
   serializedVersion: 2
   m_SwingAxis: {x: 0, y: 0, z: 1}
   m_TwistLimitSpring:
@@ -5199,7 +5199,7 @@ CharacterJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 0, y: 0, z: 1}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0.00003875047, y: 0.15137854, z: -0.000001510605}
+  m_ConnectedAnchor: {x: 0.0000385046, y: 0.15137838, z: -0.0000011213123}
   serializedVersion: 2
   m_SwingAxis: {x: 1, y: 0, z: 0}
   m_TwistLimitSpring:
@@ -8229,13 +8229,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7661389490088593426}
-  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-  m_LocalPosition: {x: 0.00016852118, y: 0.66030836, z: 0.023572836}
+  m_LocalRotation: {x: -0.7316623, y: 0.0071685603, z: 0.0142426, w: 0.6814809}
+  m_LocalPosition: {x: -0.0002071517, y: 0.6594157, z: 0.023610558}
   m_LocalScale: {x: 53.065426, y: 65.40725, z: 53.065426}
   m_Children: []
   m_Father: {fileID: 7965872017434881082}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -85.893005, y: -171.108, z: 172.84401}
 --- !u!137 &8062973783468204692
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 0
