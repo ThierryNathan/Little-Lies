@@ -114,8 +114,8 @@ namespace DiasGames.ThirdPersonSystem
         #endregion
 
         #region Movement Parameters
-
-        public float m_StationaryTurnSpeed = 180f;                      // Turn speed on idle state
+        public float m_StationaryTurnSpeed = 180f;                    // Turn speed on idle state
+        
         public float m_MovingTurnSpeed = 360f;                          // Turn speed when moving
 
         [Tooltip("Here you can set which axis character can move. Use YZ to create a 2.5D level")]

@@ -72,13 +72,12 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.high-definition-config": {
-      "version": "7.6.0",
-      "depth": 1,
-      "source": "registry",
+      "version": "file:../LocalPackages/com.unity.render-pipelines.high-definition-config",
+      "depth": 0,
+      "source": "local",
       "dependencies": {
         "com.unity.render-pipelines.core": "7.6.0"
-      },
-      "url": "https://packages.unity.com"
+      }
     },
     "com.unity.shadergraph": {
       "version": "7.6.0",

@@ -50,10 +50,10 @@ namespace DiasGames.ThirdPersonSystem
             if (layerIndex != 0)
                 return;
 
-            weight = Mathf.Lerp(weight, (Active && LookForward) ? 1 : 0, 0.15f);
+            //weight = Mathf.Lerp(weight, (Active && LookForward) ? 1 : 0, 0.15f);
 
-            m_System.m_Animator.SetLookAtPosition(m_Camera.position + m_Camera.forward * 50f);
-            m_System.m_Animator.SetLookAtWeight(weight, 0.5f, 1f, 1f);
+            //m_System.m_Animator.SetLookAtPosition(m_Camera.position + m_Camera.forward * 50f);
+            //m_System.m_Animator.SetLookAtWeight(weight, 0.5f, 1f, 1f);
         }
 
         private void Reset()
