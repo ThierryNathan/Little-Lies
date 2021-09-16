@@ -153,7 +153,8 @@ MonoBehaviour:
   m_RenderPipelineRayTracingResources: {fileID: 0}
   m_DefaultVolumeProfile: {fileID: 11400000, guid: 2564a2387f3146b4e987dbf7e69eb5a5,
     type: 2}
-  m_DefaultLookDevProfile: {fileID: 0}
+  m_DefaultLookDevProfile: {fileID: 11400000, guid: 254c4fe87beb7be4fa72e1681edbed02,
+    type: 2}
   m_RenderingPathDefaultCameraFrameSettings:
     bitDatas:
       data1: 70297877217101
@@ -206,7 +207,7 @@ MonoBehaviour:
     lightLayerName7: Light Layer 7
     supportDistortion: 1
     supportTransparentBackface: 1
-    supportTransparentDepthPrepass: 1
+    supportTransparentDepthPrepass: 0
     supportTransparentDepthPostpass: 1
     colorBufferFormat: 74
     supportCustomPass: 1
